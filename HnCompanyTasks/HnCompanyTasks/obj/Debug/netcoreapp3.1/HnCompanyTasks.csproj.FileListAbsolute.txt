@@ -2,7 +2,6 @@ F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\appsetting
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\appsettings.json
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\HnCompanyTasks.exe
-F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.csprojAssemblyReference.cache
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\staticwebassets\HnCompanyTasks.StaticWebAssets.Manifest.cache
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\staticwebassets\HnCompanyTasks.StaticWebAssets.xml
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.AssemblyInfoInputs.cache
@@ -199,7 +198,6 @@ D:\GitHub\HnCompanyTasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\n
 D:\GitHub\HnCompanyTasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\GitHub\HnCompanyTasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.MvcApplicationPartsAssemblyInfo.cs
 D:\GitHub\HnCompanyTasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.MvcApplicationPartsAssemblyInfo.cache
-D:\GitHub\HnCompanyTasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.csprojAssemblyReference.cache
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.Development.json
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\appsettings.json
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\Properties\launchSettings.json
@@ -301,3 +299,18 @@ F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.csproj.CopyComplete
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.dll
 F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.pdb
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\AutoMapper.dll
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitHub\HnCompanyTasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\AutoMapper.dll
+D:\GitHub\HnCompanyTasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitHub\HnCompanyTasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.csprojAssemblyReference.cache
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.csprojAssemblyReference.cache
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\bin\Debug\netcoreapp3.1\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.MvcApplicationPartsAssemblyInfo.cs
+F:\GIthub\Tasks\HnCompanyTasks\HnCompanyTasks\obj\Debug\netcoreapp3.1\HnCompanyTasks.MvcApplicationPartsAssemblyInfo.cache

@@ -10,6 +10,12 @@ namespace HnCompanyTasks.Models.Data
         public StatusCode Status { get; set; }
         public string Message { get; set; }
         public object Response { get; set; }
+        public ResponseData(string Message, object Response, StatusCode status = StatusCode.Success)
+        {
+            this.Message = Message;
+            this.Response = Response;
+            Status = status;
+        }
     }
 }
 
@@ -17,7 +23,7 @@ namespace HnCompanyTasks
 {
     public enum StatusCode
     {
-        Success = 0,
-        Fail = 1
+        Success = 1,
+        Fail = 0
     }
 }
